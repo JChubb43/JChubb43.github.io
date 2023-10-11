@@ -1,10 +1,10 @@
 body {
-  background: [pick a color];
+  background: #b6ccf0;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
-  color: [pick a font color];
+  color: #000000;
   text-align: center;
 }
 
@@ -12,7 +12,7 @@ assign {
   display: flex;
   padding: 10px;
   margin: 10px;
-  background: [pick a color];
+  background: #ffffff;
 }
 
 .assign img {
