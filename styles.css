@@ -12,6 +12,9 @@ a {
  text-decoration: none;
  color: black;
 }
+a:hover {
+ text-decoration: wavy underline;
+}
 
 .assign {
   display: flex;
@@ -24,5 +27,9 @@ a {
 .assign img {
   width: 200px;
   margin: 10px;
-  border: 2px dotted midnightblue;
+  border: 2px solid black;
 }
+img:hover{
+  border: 5px solid white;
+}
+
