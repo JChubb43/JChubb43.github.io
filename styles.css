@@ -29,7 +29,7 @@ a:hover {
   margin: 10px;
   border: 2px solid black;
 }
-img:hover{
+.assign img:hover{
   border: 5px solid white;
 }
 
